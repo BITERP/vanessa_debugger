@@ -1,0 +1,16 @@
+{
+    "userSettings": [
+    {
+        "user": "JENKINS_USER",
+        "settings": {
+            "ГЛ_ERP_КОД": "ERP"
+        }
+    },
+    {
+        "user": "RIVANOV",
+        "settings": {
+            "ГЛ_ERP_КОД": "ERP"
+        }
+    }
+    ]
+}
